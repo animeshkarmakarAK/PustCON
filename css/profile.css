@@ -1,0 +1,24 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+}
+body {
+  background: #f6f3ff none repeat scroll 0 0;
+  font-family: arial;
+}
+.clear{overflow: hidden;}
+
+.for_textarea {
+	width: 900px;
+	margin: 0 auto;
+	background: #fff;
+	margin-top: 30px;
+	padding-bottom: 100px;
+}
+
+.for_textarea form{}
+.for_textarea h4{}
+button,input[type="submit"]{
+
+}

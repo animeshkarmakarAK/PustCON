@@ -1,0 +1,105 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+}
+body {
+  
+  background: #f6f3ff none repeat scroll 0 0;
+  font-family: railway;
+}
+.clear{overflow: hidden;}
+.chat{
+	margin-top: 25px;
+}
+.friends{
+	float: left;
+	width: 400px;
+	background: #466C53;
+}
+
+.friends h2{
+	color: #fff;
+	text-align: center;
+	font-size: 100%;
+
+}
+.messaging{
+	float: left;
+	width: 600px;
+	background: #466C53;
+	border-left: 3px solid #fff;
+
+}
+.messaging h2{
+	color: #fff;
+	font-size: 100%;
+
+}
+
+.messaging h2 p[id="demo"] {
+	float: right;
+	font-size: 28px;
+	margin-right: 82px;
+	color: #BA7935;
+}
+.setting{
+	float: left;
+	width: 250px;
+	background: #466C53;
+	border-left: 3px solid #fff;
+}
+.setting h2{
+	color: #fff;
+	font-size: 100%;
+}
+
+.friendsList{
+	background: #263238;
+	height: 100%;
+	min-height: 800px;
+
+}
+button[name = "friend-name"]{
+color:green;
+padding:10px;
+margin-top: 3px;
+width: 300px;
+}
+
+.chat{
+	background: #374D51;
+	height: 100%;
+	min-height: 500px;
+
+
+}
+
+.sender{
+border:1 px solid#263238;
+background: #263238;
+width: 250px;
+border-radius: 8px;
+margin-top: 10px;
+padding: 10px;
+color: #fff;
+
+}
+
+.receiver{
+border:1 px solid#263238;
+background: #263238;
+width: 250px;
+border-radius: 3px;
+margin-top: 10px;
+float: right;
+padding: 10px;
+color: #fff;
+}
+
+
+.settings_comp{
+	background: green;
+	height: 100%;
+	min-height: 800px;
+}

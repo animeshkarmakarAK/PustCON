@@ -1,0 +1,110 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+}
+body {
+  background: #f6f3ff none repeat scroll 0 0;
+  font-family: arial;
+
+}
+.clear{overflow: none;}
+
+.header {
+  background: none repeat scroll 0 0 #466c53;
+  padding: 8px;
+  margin-bottom: 39px;
+}
+.header h2 {
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
+  font-family: san;
+}
+
+.nav{float: right;}
+
+
+
+.login_main {
+  width: 300px;
+  margin: 0 auto;
+}
+.login_form {
+  margin-left: -155px;
+}
+.login_form table {
+  background: #fff;
+  padding-right: 170px;
+  padding-left: 160px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+input[name="username"], input[name="pass"] {
+  /* text-align: left; */
+  width: 260px;
+  margin-left: 30px;
+ padding-bottom: 10px;
+  background: #D2D2D2;
+  border: none;
+  font-size: 100%;
+}
+
+input[name="login"] {
+  width: 260px;
+  margin-left: 30px;
+  padding-bottom: 10px;
+  background: #466C53;
+  color: #ffffff;
+  border: none;
+  font-size: 100%;
+  margin-top: 24px;
+  /* text-align: center; */
+}
+
+.create_account{
+  margin:0 auto;
+}
+.create_account p {
+  margin-top: 19px;
+  margin-bottom: 50px;
+}
+.create_account p a {
+  text-decoration: none;
+  text-align: center;
+  margin-left: 65px;
+  color: #000;
+  background: #A4B885;
+  padding: 4px;
+  /* margin-top: 59px; */
+  /* margin-bottom: 25px; */
+}
+
+/*.create_account{}
+.create_account h4{text-align: center;}
+.create_account p {margin-top: 20px;}
+.create_account p a {
+  background: none repeat scroll 0 0 #773110;
+  border: 2px solid #773110;
+  border-radius: 2px;
+  color: #fff;
+  margin-left: 45%;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+}
+*/
+
+.output,.alart-output {
+  margin: 0 auto;
+  background: red;
+  width: 300px;
+  padding: 5px;
+  margin-top: -38px;
+  margin-bottom: 17px;
+}
+.output p ,.alart-output p{
+  color: #fff;
+  text-align: center;
+  /* font-size: 259%; */
+}

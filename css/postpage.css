@@ -1,0 +1,131 @@
+.body{padding: 0px; outline: 0px;margin:0px;}
+.template{width: 960px;margin: 0 auto;}
+.clear{overflow: hidden;}
+/*.main_post_area {
+  margin:0px;
+  outline: 0px;
+  padding: 0px;
+
+}
+
+.header{}
+.post_area{}
+
+input[name="post_button"] {
+  border:0px;
+  padding:0px;
+  margin:0px;
+  margin-right: 149px;
+}
+.post_header h3 img{}
+textarea[name="post1"] {
+  width: 460px;
+  height: 78px;
+  border: 1px solid #ffffff;
+}
+
+.posted_box {
+  width: 468px;
+}
+.posted_box p {
+  background: none repeat scroll 0 0 gray;
+  margin-bottom: -2px;
+  padding: 14px;
+}
+.posted h3 {
+  background: none repeat scroll 0 0 #567988;
+  margin-top: 18px;
+  padding: 5px;
+  text-align: center;
+  width: 468px;
+  color: #D4CBDD;
+}
+
+input[name="comment_submit"] {
+  width: 92px;
+  border-radius: 0px;
+  margin-left: 0px;
+}
+input[name="deletepost"] {
+  width: 114px;
+  float: right;
+}
+.deletepost{padding:none;margin:none;outline:0px;border-radius:0px;}
+.comment_box{}
+textarea[name="comment"] {
+  margin-top: 6px;
+  width: 466px;
+}
+
+.members {
+  color: red;
+  float: right;
+  width: 209px;
+  border: 2px solid red;
+}*/
+
+
+
+
+
+.main_post_area {
+    margin-left: 426px;
+    margin-top: 18px;
+    width: 505px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-image: initial;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+textarea[name="post1"] {
+    width: 460px;
+    height: 78px;
+    border: 1px solid #ffffff;
+}
+.posted_box {
+    width: 468px;
+}
+.posted_box p {
+    background: none repeat scroll 0 0 gray;
+    margin-bottom: -2px;
+    padding: 14px;
+}
+.deletepost {
+    padding: none;
+    margin: none;
+    outline: 0px;
+    border-radius: 0px;
+}
+textarea[name="comment"] {
+    margin-top: 6px;
+    width: 466px;
+}
+input[name="comment_submit"] {
+    width: 92px;
+    border-radius: 0px;
+    margin-left: 0px;
+}
+
+.comment-text{
+  background: #fff;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
