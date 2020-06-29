@@ -1,6 +1,6 @@
 # PustCON
 
-This is a social networking site & used languages are PHP, CSS, HTML, Mysql. This site is responsible for user entry through registration and login, building user profile by giving his some personal information with a profile picture which are all customisable. The user can communicate with others users only by making or joining (by request) a group. By building his own groups, user can get the feature of suggesting friends, post in groups, comments & like on post, can delete his own text post etc.
+This is a social networking site which is made intend to finish academic project assignment in 3-2 semester & used languages are PHP, CSS, HTML, Mysql. This site is responsible for user entry through registration and login, building user profile by giving his some personal information with a profile picture which are all customisable. The user can communicate with others users only by making or joining (by request) a group. By building his own groups, user can get the feature of suggesting friends, post in groups, comments & like on post, can delete his own text post etc.
 
 
 # Details ( not required to read to understand ) 
