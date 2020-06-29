@@ -1,4 +1,9 @@
 # PustCON
+
+This is a social networking site & used languages are PHP, CSS, HTML, Mysql. This site is responsible for user entry through registration and login, building user profile by giving his some personal information with a profile picture which are all customisable. The user can communicate with others users only by making or joining (by request) a group. By building his own groups, user can get the feature of suggesting friends, post in groups, comments & like on post, can delete his own text post etc.
+
+
+# Details ( not required to read to understand ) 
 A social networking site user interface purpose of making groups and posting necessary news using PHP , HTML5 and CSS3 and little bit JavaScript 
 PustCON social networking site
 Social networking –It’s the way the 21 st century communicates now. Social networking is the grouping of individuals into specific groups, like small rural communities or a neighborhood subdivision.  Although social networking is possible in person, especially in the workplace, universities and high schools.  It’s the most popular online. This is because unlike most high schools, colleges, or workplaces, the internet filled with millions of individuals who are looking to meet other people.
