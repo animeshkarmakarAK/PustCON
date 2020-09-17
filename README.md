@@ -1,9 +1,11 @@
+## clone and run it in php version 5.5
+
 # PustCON
 
 This is a social networking site which is made intend to finish academic project assignment in 3-2 semester & used languages are PHP, CSS, HTML, Mysql. This site is responsible for user entry through registration and login, building user profile by giving his some personal information with a profile picture which are all customisable. The user can communicate with others users only by making or joining (by request) a group. By building his own groups, user can get the feature of suggesting friends, post in groups, comments & like on post, can delete his own text post etc.
 
 
-# Details ( not required to read to understand ) 
+# Details
 A social networking site user interface purpose of making groups and posting necessary news using PHP , HTML5 and CSS3 and little bit JavaScript 
 PustCON social networking site
 Social networking –It’s the way the 21 st century communicates now. Social networking is the grouping of individuals into specific groups, like small rural communities or a neighborhood subdivision.  Although social networking is possible in person, especially in the workplace, universities and high schools.  It’s the most popular online. This is because unlike most high schools, colleges, or workplaces, the internet filled with millions of individuals who are looking to meet other people.
@@ -32,14 +34,14 @@ PROJECT SCOPE:
 SYSTEM REQUIREMENTS:
 The Web-based social networking services make it possible to connect people who share interests. Several websites are beginning to tap into the power of the social networking model for philanthropy. Such models provide a means for connecting otherwise fragmented industries and small organizations without the resources to reach a broader audience with interested users. Social networks are providing a different way for individuals to communicate digitally. Each user who wants to use this site must create a account . This is the head class. The account information has four purposes : hold the login information, hold profile information, privacy information, hold the groups information. This proposed system the privacy settings object contain all the privacy info and privacy settings. The main objective  and object of this system is making group and interacting people by group organization by posting and commenting users In the group to socializing.
 
-SOFTWARE AND TOOLS SPECIFICATION:
+# SOFTWARE AND TOOLS SPECIFICATION:
 •	MySql
-•	Language:  PHP 6
+•	Language:  PHP6
 •	Back end: php myAdmin
 •	 Markup language: HTML 5
 •	Style in: CSS 3
 
- Hardware Requirements
+ # Hardware Requirements
  Processor: Intel Pentium IV 2.0 GHz and above 
  RAM: 512 MB and above
  Hard disk: 80GB and above
